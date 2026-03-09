@@ -42,6 +42,9 @@ This supports SDG 4 by giving inclusive tools for lifelong learning, especially 
 ## Benefits of the Project
 
 •   Flexible: Local prototype, no backend needed.
+
 •   Group-Friendly: BA writes user stories (e.g, As procrastinator, get nudge to start task), modeller diagrams “MatchUser.”
+
 •   Rubric-Perfect: User focused, linked to SDG 4, testable with fake buddies.
+
 •   Your Edge: Godot for interactive tracker and rooms
