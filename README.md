@@ -25,9 +25,9 @@ This supports SDG 4 by giving inclusive tools for lifelong learning, especially 
 
 ---
 
-## Prototype Scope (Week 3)
+## Prototype Scope 
 
-| Prototype Scope (Week 3) | SDG Link |
+| Prototype Scope  | SDG Link |
 |--------------------------|-----------|
 | Basic profiles + match button. | Equitable peer access. |
 | Chat + thumbs up/emoji confirm. | Builds discipline. |
@@ -49,13 +49,9 @@ This supports SDG 4 by giving inclusive tools for lifelong learning, especially 
 | Studytogether | Collaborative equity. |
 | Godot strength | Lifelong motivation. |
 
-## MVP for Pitch
-
-Matcher + check-ins + tracker (3 screens)—buildable in Godot/HTML.
-
 ---
 
-## Why This Wins Your Project
+##
 
 - Flexible: Scale to basics (no backend needed—local prototype).
 - Group-Friendly: BA writes stories ("As procrastinator, get nudge so start task"), Modeller diagrams "MatchUser".
