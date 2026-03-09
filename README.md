@@ -17,7 +17,7 @@ This supports SDG 4 by giving inclusive tools for lifelong learning, especially 
 | Feature | How It Helps |
 |-------|---------------|
 | Buddy Matcher | Swipe and match by subject, availability, goals ( e.g, no procrastination ). |
-| Daily Check-Ins | Buddy nudges , mutual accountability pings ( e.g, Did you study 30 mins?z ). |
+| Daily Check-Ins | Buddy nudges , mutual accountability pings ( e.g, Did you study 30 mins? ). |
 | Goal Tracker | Set micro tasks , share progress badges ( e.g, Read Ch1 ). |
 | Procrastination Nudges | Pomodoro timers, task splitter ( e.g, Break it down ). |
 | Session Rooms | Virtual study rooms with buddies ( video/audio optional ). |
