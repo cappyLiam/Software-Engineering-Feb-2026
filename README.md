@@ -1,4 +1,3 @@
-Our online learning support platform for SDG 4 (Quality Education)—perfectly tackles procrastination, accountability gaps, and academic struggles by pairing students with buddies, adding nudges, and gamifying progress. It’s broad/flexible for 4 weeks: simple prototype (matching + check-ins) wows lecturers.
 
 ---
 
