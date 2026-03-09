@@ -1,15 +1,14 @@
+   Our online learning support platform, built to advance SDG 4 (Quality Education), tackles procrastination, accountability gaps, and academic challenges head on. By connecting students with study buddies, adding nudges, and gamifying progress, it keeps learners motivated and engaged. The project can be developed within four weeks.
 
 ---
 
-## Core Product Pitch (Your Week 1 Vision)
+## Core Product Pitch 
 
-Problem: Students procrastinate/isolate, fall behind (your group’s insight).
-
-For: High school/university strugglers needing motivation/peers.
-
-Solution: App matches “study buddies” by subject/schedule, daily check-ins, shared goals—builds habits + support.
-
-SDG 4 Win: Inclusive tools for lifelong learning/access, especially underserved.
+   Students often procrastinate or feel isolated, which makes them fall behind.
+The app is for high school and university students who need motivation and peer support.
+It matches study buddies by subject and schedule.
+Daily check-ins and shared goals help build good habits and support.
+This supports SDG 4 by giving inclusive tools for lifelong learning, especially for underserved students.
 
 ---
 
