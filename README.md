@@ -25,29 +25,17 @@ This supports SDG 4 by giving inclusive tools for lifelong learning, especially 
 
 ---
 
-## Prototype Scope 
+## Prototype Scope and SDG Link
 
 | Prototype Scope  | SDG Link |
 |--------------------------|-----------|
-| Basic profiles + match button. | Equitable peer access. |
+| Basic profiles + match button. | Equitable peer access. | Equitable peer access. |
 | Chat + thumbs up/emoji confirm. | Builds discipline. |
 | List + checkmarks, streak counter. | Personalized learning. |
 | Timer UI + auto-split big tasks. | Overcomes barriers. |
 | Text chat room for 2. | Collaborative equity. |
 | Simple charts (your Godot strength?). | Lifelong motivation. |
 
----
-
-## SDG Link
-
-| Feature | SDG Link |
-|--------|-----------|
-| Match button | Equitable peer access. |
-| Emoji confirm | Builds discipline. |
-| Streak counter | Personalized learning. |
-| Big tasks | Overcomes barriers. |
-| Studytogether | Collaborative equity. |
-| Godot strength | Lifelong motivation. |
 
 ---
 
