@@ -1,0 +1,100 @@
+# ZenZone Product Backlog
+SDG Goal: SDG 4 – Quality Education
+
+This product backlog lists the main features and user stories for the ZenZone Study Buddy App.
+
+---
+
+## 1. User Registration and Login
+Priority: High
+
+Tasks:
+- Design registration & login screen
+- Implement authentication flow
+- Test login/logout process
+
+---
+
+## 2. Homepage Dashboard
+Priority: High
+
+Tasks:
+- Design homepage layout
+- Display upcoming study sessions
+- Display recent messages
+- Display quick access buttons
+
+---
+
+## 3. Calendar (Study Scheduler)
+Priority: High
+
+Tasks:
+- Design calendar interface
+- Implement add/edit study session
+- Implement reminder notifications
+- Display upcoming events
+
+---
+
+## 4. Check-In (Task List)
+Priority: High
+
+Tasks:
+- Design task list interface
+- Implement add/remove tasks
+- Implement task completion check system
+
+---
+
+## 5. Study Progress Tracker
+Priority: Medium
+
+Tasks:
+- Design progress dashboard
+- Implement study session tracking
+- Create bar charts for study hours
+- Display progress over time
+
+---
+
+## 6. Nudge Feature
+Priority: High
+
+Tasks:
+- Design nudge notification interface
+- Implement send nudge feature
+- Implement receive nudge notification
+- Link nudges to study sessions
+
+---
+
+## 7. Messaging System
+Priority: Medium
+
+Tasks:
+- Design messaging interface
+- Implement chat system
+- Implement message notifications
+
+---
+
+## 8. Profile Creator and Display
+Priority: Medium
+
+Tasks:
+- Design profile page
+- Implement profile creation
+- Implement profile editing
+- Display study interests and subjects
+
+---
+
+## 9. Study Buddy Finder (Main Feature)
+Priority: Highest
+
+Tasks:
+- Design study buddy matching interface
+- Implement subject-based search
+- Display suggested study partners
+- Allow students to send study buddy requests
