@@ -1,1 +1,24 @@
+# ZenZone App System Requirements
 
+Here are the features and the functions of the ZenZone app system. there have two main types. They are functional and non-functional requirements. 
+
+## Functional Requirements
+
+For Functional requirements, 
+
+- Users log in and create account 
+- find buddy
+- create and find the study rooms
+- chat with study partners in the room
+- add study goals and tasks
+- track study sessions and productivity statistics
+
+## Non-Functional Requirements
+
+For non- functional requirements,
+
+- The system support multiple users studying simultaneously.
+- The interface is reliable and user friendly.
+- The system load within 3 seconds.
+- User data are being secure and protected.
+- The system is accessible on web and mobile browsers.
