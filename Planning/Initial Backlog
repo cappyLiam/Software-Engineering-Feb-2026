@@ -1,14 +1,13 @@
 This is a short backlog made from initial brainstorming during Week 1.
 
-App Introduction and Welcome Screen  
-User Login and Registration System
-Home Dashboard 
-Search Function to find study partners
-Chat System for messaging study buddies
-Group Chat Feature 
-Study session Calendar Feature 
-Study Session Tracking 
-User Profile Management
-Study Buddy Matching System
-Daily Check-In Task List 
-Study Progress Tracking
+- App Introduction Screen
+- User Login/Registration System
+- Homepage 
+- Search Function to find study partners
+- Messages System
+- Study session Calendar Feature 
+- Study Session Tracking (Pomodoro/Timer)
+- User Profile Management/Creation
+- Study Buddy Matching System
+- Daily Check-In Task List 
+- Study Progress Tracking
