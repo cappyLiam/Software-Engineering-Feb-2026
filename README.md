@@ -1,50 +1,96 @@
-   Our online learning support platform, built to advance SDG 4 (Quality Education), tackles procrastination, accountability gaps, and academic challenges head on. By connecting students with study buddies, adding nudges, and gamifying progress, it keeps learners motivated and engaged. The project can be developed within four weeks.
+# ZenZone – Student Study Buddy App
+
+## **SDG 4: Quality Education**.
 
 ---
 
-## Core Product Pitch 
+# Team Members
 
-   Students often procrastinate or feel isolated, which makes them fall behind.
-The app is for high school and university students who need motivation and peer support.
-It matches study buddies by subject and schedule.
-Daily check-ins and shared goals help build good habits and support.
-This supports SDG 4 by giving inclusive tools for lifelong learning, especially for underserved students.
+**Names & Roles**
 
----
+Fayza Sadia: Project Manager/Product Owner/Scrum Master
 
-## Key Features (Prioritize Top 6 for Prototype)
+Lyana Al Muna Hashan Diya: Business Analyst/Market Research
 
-| Feature | How It Helps |
-|-------|---------------|
-| Buddy Matcher | Swipe and match by subject, availability, goals ( e.g, no procrastination ). |
-| Daily Check-Ins | Buddy nudges , mutual accountability pings ( e.g, Did you study 30 mins? ). |
-| Goal Tracker | Set micro tasks , share progress badges ( e.g, Read Ch1 ). |
-| Procrastination Nudges | Pomodoro timers, task splitter ( e.g, Break it down ). |
-| Session Rooms | Virtual study rooms with buddies ( video/audio optional ). |
-| Progress Dashboard | Weekly streaks, buddy matches stats. |
+Kyal Sin Lit Lat: Modeller/Prototype Developer
+
+Bhone Khant Kyaw: Developer/Documentation Lead
 
 ---
 
-## Prototype Scope and SDG Link
-
-| Prototype Scope  | SDG Link |
-|--------------------------|-----------|
-| Basic profiles + match button. | Equitable peer access. | Equitable peer access. |
-| Chat + thumbs up/emoji confirm. | Builds discipline. |
-| List + checkmarks, streak counter. | Personalized learning. |
-| Timer UI + auto-split big tasks. | Overcomes barriers. |
-| Text chat room for 2. | Collaborative equity. |
-| Simple charts (your Godot strength?). | Lifelong motivation. |
-
+# Project Description:
+You can find study buddies based on subjects and availabilty, as well as schedule shared study sessions with them. Progress can be tracked and this makes streaks and badges can be earned. Nudges are motivational reminders that can be sent to your buddies - additionally, you can message them and start group chats with them. Students all across the globe struggle with accountability, procrastination and motivation. With this app, we aimed to help with that.
 
 ---
 
-## Benefits of the Project
+# Why ZenZone over other apps?
 
-•   Flexible: Local prototype, no backend needed.
+## Nudge System
 
-•   Group-Friendly: BA writes user stories (e.g, As procrastinator, get nudge to start task), modeller diagrams “MatchUser.”
+Students can motivate each other using quick reminders called nudges.
 
-•   Rubric-Perfect: User focused, linked to SDG 4, testable with fake buddies.
+**Features:**
 
-•   Your Edge: Godot for interactive tracker and rooms
+- View recent nudges
+
+- Send quick or custom nudges
+
+- Respond with chat or return nudge
+
+- View nudge history
+
+---
+
+### Study Buddy Finder
+
+Find people to keep you accountable to boost productivity.
+
+**Students can:**
+
+- Search for study buddies by subject
+
+- Filter by availability
+
+- Send study buddy requests
+
+- View other students currently studying
+
+---
+
+# Overview of SDLC Work
+
+This project followed the **Software Development Life Cycle (SDLC)** using **Agile and Scrum practices**.
+
+- **Planning**: we chose SDG 4 - Quality Education and developed the idea of ZenZone as a collaborative study app. We identified what users need by doing a survey, and organized those needs into a product backlog and managed tasks using Trello.
+
+- **Design**: involved the use case diagram, class diagram, wireframes and figma prototype screens. These design artifacts helped define how users interact with the system and how the application structure is organized.
+
+- **Prototype Development**: A working prototype was developed using **Figma** to simulate the application interface and user navigation. The prototype shows features, like study buddy discovery, messaging, calendar scheduling and study progress tracking.
+
+- **Evaluation**: We tested the usability of the Figma prototype by letting users interact with it and complete predefined tasks. We collected feedback to identify design issues and usability problems. We used the feedback to update the backlog and refine the prototype.
+
+---
+
+# Tools Used
+
+- GitHub – Version control and project documentation
+
+- Trello – Agile task management
+
+- Figma – UI design and prototype development
+
+---
+
+# Repository Structure
+
+```
+
+/planning
+
+/design
+
+/testing
+
+/final
+
+README.md
