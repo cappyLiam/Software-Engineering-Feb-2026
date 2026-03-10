@@ -5,6 +5,119 @@ This product backlog lists the main features and user stories for the ZenZone St
 
 ---
 
+1) Home Screen
+
+- You can search for study buddies by subject here.
+
+- There are buttons at the top:
+
+      * Favorites - Save your favorite study buddies for easy access.
+
+      * Dark mode - Switch to mode for easier reading.
+
+      * Notifications - See who wants to study with you and respond.
+
+      * Profile - Go to your profile page.
+
+
+2) Timer
+
+- Use the timer to help you study. You can choose Pomodoro or count-up timers.
+
+- Start, pause or change your timer settings as needed.
+
+- You can even. Chat with study buddies who are studying now.
+
+
+3) Nudges
+
+- See the recent nudge you got.
+
+- You can quickly start a chat. Send a nudge back.
+
+- Check your history if you need to.
+
+
+4) Check-In
+
+- See what you need to study today and track your progress.
+
+- Click on tasks to check in and earn points.
+
+
+5) Achievements
+
+- Track how long you've been studying your badges and your goals.
+
+- See quotes to keep you going.
+
+- Check your streaks and total hours studied this week.
+
+
+6) Available Study Buddies
+
+- Look for study buddies who're available now.
+
+- Filter by subject or time to find the match.
+
+
+7) Messages
+
+- Chat with your study group. Start a new group.
+
+
+8) Calendar
+
+- See your study sessions with buddies.
+
+- Leave reviews for sessions and link to the buddy’s profile.
+
+
+9) Profile
+
+- See information, about your study buddies like what subjects they study and when they're available.
+
+- Write reviews and rate study buddies.
+
+- Buttons:
+
+      * Send a study request. Choose a subject. Write a message.
+
+      * Schedule a session. Add it to your calendar.
+
+      * Send a nudge. Quick or custom.
+
+
+10) My Profile
+
+- Change your info and preferences here.
+
+- See your connections, chats and study hours.
+
+- You can log here too.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 1. User Registration and Login
 Priority: High
 
