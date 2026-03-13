@@ -1,5 +1,6 @@
-Add a confirmation step that lets users adjust the time and date before adding the session to their calendar.
+Removed a few features from the prototype due to the scope being too high.
 Fix the system so that the users name and profile picture always show when they send or receive nudges.
-Fix the weekly activity chart so users can easily see their study progress and activity.
 Add a section, for nudge history so users can see nudges they exchanged with their study buddies.
 Let users create tasks and remove tasks more easily to make it more motivating.
+Fixed the issue where study buddy names were not matching with the subjects, and where sometimes the subject would not be shown.
+Fixed layout issues with the nudge and home pages.
