@@ -1,4 +1,11 @@
-# ZenZone App - Results Summary
+# The purpose of ZenZone is to help students stay focused, manage time, and collaborate with study buddies. 
 
-The purpose of ZenZone is to help students stay focused, manage time, and collaborate with study buddies. We tested the buddy matcher, check-in tasks, progress tracker, timer, and nudge features with 10 students. We observe that students could easily find study buddies and join group chat. Some users didn’t understand the nudge screen at first. The progress tracker chart was missing weekly activity for some users. The timer feature helped students stay focused during short study sessions. Based on observations, we add nudge history to the nudge screen.  
-We allow users to create and remove tasks and assign points in check-in more easily. We also add a prompt to adjust date and time when scheduling sessions. Overall, students found ZenZone to stay focused and organize study sessions.
+We tested ZenZone's various features with 4 students. 
+
+- We observed that students could easily find study buddies through the search feature and send nudges, though some didn’t understand the nudge screen at first.
+- The progress tracker chart weekly activity was removed due to users not liking the way it looks. 
+- The timer feature helped students stay focused during short study sessions. 
+- Based on their opinions, we added nudge history to the nudge screen.  
+- We allowed users to create and remove tasks and assign points in check-in more easily. 
+- We also removed some functionalities as students saw them to be redundant. 
+- Overall, ZenZone's reviews were overwhelmingly positive.
