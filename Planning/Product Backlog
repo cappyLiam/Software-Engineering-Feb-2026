@@ -15,7 +15,7 @@ This product backlog lists the main features and user stories for the ZenZone St
 
       * Dark mode - Switch to mode for easier reading.
 
-      * Notifications - See who wants to study with you and respond.
+      * Requests - See who wants to study with you and respond.
 
       * Profile - Go to your profile page.
 
@@ -26,14 +26,14 @@ This product backlog lists the main features and user stories for the ZenZone St
 
 - Start, pause or change your timer settings as needed.
 
-- You can even. Chat with study buddies who are studying now.
+- You can even chat or call with study buddies who are studying now.
 
 
 3) Nudges
 
 - See the recent nudge you got.
 
-- You can quickly start a chat. Send a nudge back.
+- You can quickly start a chat or send a nudge back.
 
 - Check your history if you need to.
 
@@ -49,12 +49,12 @@ This product backlog lists the main features and user stories for the ZenZone St
 
 - Track how long you've been studying your badges and your goals.
 
-- See quotes to keep you going.
+- Look at motivational quotes to keep you going.
 
 - Check your streaks and total hours studied this week.
 
 
-6) Available Study Buddies
+6) Study Buddies (Search screen)
 
 - Look for study buddies who're available now.
 
@@ -73,7 +73,7 @@ This product backlog lists the main features and user stories for the ZenZone St
 - Leave reviews for sessions and link to the buddy’s profile.
 
 
-9) Profile
+9) Profile (of buddy)
 
 - See information, about your study buddies like what subjects they study and when they're available.
 
@@ -94,32 +94,20 @@ This product backlog lists the main features and user stories for the ZenZone St
 
 - See your connections, chats and study hours.
 
-- You can log here too.
+- You can log out here too.
 
 
 
-## 1. User Registration and Login
-Priority: High
-
-Tasks:
-- Design registration & login screen
-- Implement authentication flow
-- Test login/logout process
-
----
-
-## 2. Homepage Dashboard
+## 1. Homepage Dashboard
 Priority: High
 
 Tasks:
 - Design homepage layout
-- Display upcoming study sessions
-- Display recent messages
 - Display quick access buttons
 
 ---
 
-## 3. Calendar (Study Scheduler)
+## 2. Calendar (Study Scheduler)
 Priority: High
 
 Tasks:
@@ -130,17 +118,16 @@ Tasks:
 
 ---
 
-## 4. Check-In (Task List)
+## 3. Check-In (Task List)
 Priority: High
 
 Tasks:
 - Design task list interface
-- Implement add/remove tasks
 - Implement task completion check system
 
 ---
 
-## 5. Study Progress Tracker
+## 4. Study Progress Tracker
 Priority: Medium
 
 Tasks:
@@ -151,28 +138,25 @@ Tasks:
 
 ---
 
-## 6. Nudge Feature
-Priority: High
+## 5. Nudge Feature (Main Feature)
+Priority: Highest
 
 Tasks:
 - Design nudge notification interface
-- Implement send nudge feature
-- Implement receive nudge notification
-- Link nudges to study sessions
+- Implement send nudge back feature
+- Add messaging capabilities for a nudge
 
 ---
 
-## 7. Messaging System
+## 6. Messaging System
 Priority: Medium
 
 Tasks:
 - Design messaging interface
-- Implement chat system
-- Implement message notifications
 
 ---
 
-## 8. Profile Creator and Display
+## 7. Profile Creator and Display
 Priority: Medium
 
 Tasks:
@@ -183,8 +167,8 @@ Tasks:
 
 ---
 
-## 9. Study Buddy Finder (Main Feature)
-Priority: Highest
+## 8. Study Buddy Finder
+Priority: High
 
 Tasks:
 - Design study buddy matching interface
